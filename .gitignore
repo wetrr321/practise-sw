@@ -1,0 +1,22 @@
+# 视频
+*.mp4
+*.avi
+*.mov
+
+# SolidWorks 临时文件
+*.sldlfp
+*.sldrev
+*.bak
+*.prt.*
+*.asm.*
+*.drw.*
+~$*.sld*
+*.tmp
+*.log
+
+# 系统垃圾
+Thumbs.db
+.DS_Store
+
+# VSCode
+.vscode/
